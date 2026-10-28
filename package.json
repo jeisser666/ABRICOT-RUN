@@ -1,0 +1,9 @@
+{
+  "name": "abricot-run-server",
+  "version": "1.0.0",
+  "description": "Сервер онлайн-режима игры «Абрикосовый забег»",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
